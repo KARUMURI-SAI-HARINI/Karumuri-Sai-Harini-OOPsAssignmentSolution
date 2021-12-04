@@ -27,7 +27,7 @@ public class superDepartment {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// E_Commerce a2 = new E_Commerce();
+		
 		superDepartment s = new superDepartment();
 		adminDepartment a = new adminDepartment();
 		hrDepartment h = new hrDepartment();
